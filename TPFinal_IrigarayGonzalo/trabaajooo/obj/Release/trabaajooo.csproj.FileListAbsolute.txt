@@ -1,0 +1,16 @@
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\trabaajooo\bin\Release\trabaajooo.exe.config
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\trabaajooo\bin\Release\trabaajooo.exe
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\trabaajooo\bin\Release\trabaajooo.pdb
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\trabaajooo\bin\Release\Dominioo.dll
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\trabaajooo\bin\Release\Negocio.dll
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\trabaajooo\bin\Release\Dominioo.pdb
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\trabaajooo\bin\Release\Negocio.pdb
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\trabaajooo\obj\Release\trabaajooo.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\trabaajooo\obj\Release\trabaajooo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\trabaajooo\obj\Release\trabaajooo.Lista.resources
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\trabaajooo\obj\Release\trabaajooo.Properties.Resources.resources
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\trabaajooo\obj\Release\trabaajooo.csproj.GenerateResource.cache
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\trabaajooo\obj\Release\trabaajooo.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\trabaajooo\obj\Release\trabaajooo.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\trabaajooo\obj\Release\trabaajooo.exe
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\trabaajooo\obj\Release\trabaajooo.pdb

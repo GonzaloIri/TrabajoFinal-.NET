@@ -1,0 +1,12 @@
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\Dominioo\obj\Debug\Dominioo.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\Dominioo\obj\Debug\Dominioo.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\Dominioo\bin\Debug\Dominioo.dll
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\Dominioo\bin\Debug\Dominioo.pdb
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\Dominioo\obj\Debug\Dominioo.dll
+C:\Users\Gonzalo\Desktop\.net\SomosCumbancha\trabaajooo\Dominioo\obj\Debug\Dominioo.pdb
+C:\Users\Gonzalo\Desktop\.net\trabaajooo\Dominioo\bin\Debug\Dominioo.dll
+C:\Users\Gonzalo\Desktop\.net\trabaajooo\Dominioo\bin\Debug\Dominioo.pdb
+C:\Users\Gonzalo\Desktop\.net\trabaajooo\Dominioo\obj\Debug\Dominioo.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\.net\trabaajooo\Dominioo\obj\Debug\Dominioo.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\.net\trabaajooo\Dominioo\obj\Debug\Dominioo.dll
+C:\Users\Gonzalo\Desktop\.net\trabaajooo\Dominioo\obj\Debug\Dominioo.pdb
